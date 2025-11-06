@@ -3,7 +3,7 @@ name: Daily Random Programming Quote
 on:
   # Scheduled times (Philippine Time converted to UTC)
   schedule:
-    - cron: "40 10 * * *"  # 6:40 PM PH (initial run you want)
+    - cron: "46 10 * * *"  # 6:40 PM PH (initial run you want)
     - cron: "0 23 * * *"   # 7:00 AM PH
     - cron: "0 2 * * *"    # 10:00 AM PH
     - cron: "0 5 * * *"    # 1:00 PM PH
