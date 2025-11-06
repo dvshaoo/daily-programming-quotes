@@ -2,7 +2,7 @@ name: Daily Random Programming Quote
 
 on:
   schedule:
-    - cron: "35 10 * * *"  # 6:35 PM PH (first run)
+    - cron: "40 10 * * *"  # 6:35 PM PH (first run)
     - cron: "0 23 * * *"   # 7:00 AM PH
     - cron: "0 2 * * *"    # 10:00 AM PH
     - cron: "0 5 * * *"    # 1:00 PM PH
