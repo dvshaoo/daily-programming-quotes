@@ -20,3 +20,10 @@ _Last updated: 11/6/2025, 8:23:36 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/6/2025, 9:05:39 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Never allow someone to be your priority while allowing yourself to be their option."  
+│              — Mark Twain
+╰─────────────────────────────────────────────╯
+_Last updated: 11/6/2025, 9:46:55 PM_
+
