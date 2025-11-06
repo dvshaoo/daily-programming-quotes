@@ -1,32 +1,48 @@
 const fs = require("fs");
 const https = require("https");
 
-// Convert time to PH timezone
-function formatPHTime() {
-  return new Date().toLocaleString("en-PH", { timeZone: "Asia/Manila" });
+function fetchQuote() {
+  return new Promise((resolve, reject) => {
+    https.get("https://zenquotes.io/api/random", (res) => {
+      let data = "";
+      res.on("data", chunk => data += chunk);
+      res.on("end", () => {
+        try {
+          const q = JSON.parse(data)[0];
+          resolve({ text: q.q, author: q.a });
+        } catch (err) {
+          reject("Parsing error: " + err);
+        }
+      });
+    }).on("error", err => reject(err));
+  });
 }
 
-https.get("https://zenquotes.io/api/random", (res) => {
-  let data = "";
-  res.on("data", chunk => data += chunk);
-  res.on("end", () => {
-    try {
-      const q = JSON.parse(data)[0];
-      const quote = q.q;
-      const author = q.a;
+(async () => {
+  try {
+    const { text, author } = await fetchQuote();
+    const timestamp = new Date().toLocaleString("en-PH", { timeZone: "Asia/Manila" });
 
-      const content = `# 🧠 Daily Programming Quote
+    const box = 
+`╭─────────────────────────────────────────────╮
+│  "${text}"  
+│              — ${author}
+╰─────────────────────────────────────────────╯
+_Last updated: ${timestamp}_
 
-> "${quote}"
-> — **${author}**
-
-_Last updated: ${formatPHTime()}_
 `;
 
-      fs.writeFileSync("README.md", content);
-      console.log("✅ README updated");
-    } catch (err) {
-      console.error("❌ Parsing error:", err);
-    }
-  });
-});
+    let readme = "";
+    if (fs.existsSync("README.md")) readme = fs.readFileSync("README.md", "utf-8");
+
+    // If first time, add title:
+    if (!readme.includes("🧠 Daily Programming Quotes Log"))
+      readme = "# 🧠 Daily Programming Quotes Log\n\n" + readme;
+
+    fs.writeFileSync("README.md", readme + "\n" + box);
+
+    console.log("✅ Quote appended successfully");
+  } catch (err) {
+    console.error("❌ Error:", err);
+  }
+})();
