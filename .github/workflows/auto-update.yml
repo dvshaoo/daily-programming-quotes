@@ -1,14 +1,19 @@
 name: Daily Random Programming Quote
 
 on:
+  # Scheduled times (Philippine Time converted to UTC)
   schedule:
-    - cron: "40 10 * * *"  # 6:35 PM PH (first run)
+    - cron: "40 10 * * *"  # 6:40 PM PH (initial run you want)
     - cron: "0 23 * * *"   # 7:00 AM PH
     - cron: "0 2 * * *"    # 10:00 AM PH
     - cron: "0 5 * * *"    # 1:00 PM PH
     - cron: "0 7 * * *"    # 3:00 PM PH
     - cron: "0 10 * * *"   # 6:00 PM PH
-  workflow_dispatch:
+
+  workflow_dispatch: # Allows manual run
+
+permissions:
+  contents: write   # <- This is required so git push will work
 
 jobs:
   update-readme:
@@ -26,10 +31,10 @@ jobs:
       - name: Run script
         run: node scripts/update_readme.js
 
-      - name: Commit & Push
+      - name: Commit & Push changes
         run: |
           git config --local user.email "paleraciojoey68@gmail.com"
           git config --local user.name "dvshaoo"
           git add README.md
-          git commit -m "Auto update: $(date)" || echo "No changes"
+          git commit -m "Auto update: $(date)" || echo "No changes to commit"
           git push
