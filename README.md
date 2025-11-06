@@ -1,4 +1,4 @@
-# 🧠 Daily Programming Quote
+# 🧠 Daily Quote Appending Every 30 mins
 
 > "The more you like yourself, the less you are like anyone else, which makes you unique."
 > — **Walt Disney**
