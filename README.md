@@ -167,3 +167,10 @@ _Last updated: 11/7/2025, 6:39:25 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/7/2025, 7:11:32 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Never allow someone to be your priority while allowing yourself to be their option."  
+│              — Mark Twain
+╰─────────────────────────────────────────────╯
+_Last updated: 11/7/2025, 7:34:57 AM_
+
