@@ -34,3 +34,10 @@ _Last updated: 11/6/2025, 9:46:55 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/6/2025, 10:12:43 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "There are no differences but differences of degree between different degrees of difference and no difference."  
+│              — William James
+╰─────────────────────────────────────────────╯
+_Last updated: 11/6/2025, 10:42:27 PM_
+
