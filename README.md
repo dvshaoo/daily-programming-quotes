@@ -62,3 +62,10 @@ _Last updated: 11/6/2025, 11:42:02 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/7/2025, 12:15:39 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others."  
+│              — Criss Jami
+╰─────────────────────────────────────────────╯
+_Last updated: 11/7/2025, 12:48:42 AM_
+
