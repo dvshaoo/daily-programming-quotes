@@ -76,3 +76,10 @@ _Last updated: 11/7/2025, 12:48:42 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/7/2025, 1:13:10 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."  
+│              — Brian Tracy
+╰─────────────────────────────────────────────╯
+_Last updated: 11/7/2025, 1:40:07 AM_
+
