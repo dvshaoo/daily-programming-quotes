@@ -1,8 +1,11 @@
 name: Daily Random Programming Quote
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "*/5 * * * *"   # Every 5 minutes PH Time adjusted by UTC
+    - cron: "*/5 * * * *"   # Every 5 minutes
   workflow_dispatch:
 
 jobs:
