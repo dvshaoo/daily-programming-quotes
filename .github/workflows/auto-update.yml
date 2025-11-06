@@ -2,7 +2,7 @@ name: Daily Random Programming Quote
 
 on:
   schedule:
-    - cron: "0 11 * * *"   # Run once at 7:00 PM PH time
+    - cron: "5 11 * * *"   # Run once at 7:00 PM PH time
     - cron: "*/10 * * * *" # Then run every 10 minutes
   workflow_dispatch:
 
