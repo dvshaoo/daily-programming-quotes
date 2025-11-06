@@ -2,7 +2,8 @@ name: Daily Random Programming Quote
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # Every 10 minutes
+    - cron: "55 10 * * *"   # 6:55 PM PH (first run)
+    - cron: "*/10 * * * *"  # Every 10 minutes after
   workflow_dispatch:
 
 permissions:
