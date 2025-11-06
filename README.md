@@ -153,3 +153,10 @@ _Last updated: 11/7/2025, 6:11:54 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/7/2025, 6:15:18 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Don´t hesitate or allow yourself to make excuses. Just get out and do it."  
+│              — Christopher McCandless
+╰─────────────────────────────────────────────╯
+_Last updated: 11/7/2025, 6:39:25 AM_
+
