@@ -251,3 +251,10 @@ _Last updated: 11/7/2025, 3:12:13 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/7/2025, 3:36:24 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."  
+│              — Rumi
+╰─────────────────────────────────────────────╯
+_Last updated: 11/7/2025, 4:16:49 PM_
+
