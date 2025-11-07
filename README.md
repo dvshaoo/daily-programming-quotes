@@ -328,3 +328,10 @@ _Last updated: 11/7/2025, 9:03:29 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/7/2025, 9:42:37 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If someone betrays you once, it's their fault; if they betray you twice, it's your fault."  
+│              — Eleanor Roosevelt
+╰─────────────────────────────────────────────╯
+_Last updated: 11/7/2025, 10:11:59 PM_
+
