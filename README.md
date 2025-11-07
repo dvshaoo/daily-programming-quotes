@@ -300,3 +300,10 @@ _Last updated: 11/7/2025, 6:41:59 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/7/2025, 7:10:26 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."  
+│              — Ming-Dao Deng
+╰─────────────────────────────────────────────╯
+_Last updated: 11/7/2025, 7:35:08 PM_
+
