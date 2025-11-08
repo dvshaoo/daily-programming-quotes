@@ -545,3 +545,10 @@ _Last updated: 11/8/2025, 2:16:05 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/8/2025, 2:44:29 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."  
+│              — Celestine Chua
+╰─────────────────────────────────────────────╯
+_Last updated: 11/8/2025, 3:10:25 PM_
+
