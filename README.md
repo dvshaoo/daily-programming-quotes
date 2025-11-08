@@ -625,3 +625,10 @@ _Last updated: 11/8/2025, 8:20:20 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/8/2025, 8:58:05 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."  
+│              — Criss Jami
+╰─────────────────────────────────────────────╯
+_Last updated: 11/8/2025, 9:22:59 PM_
+
