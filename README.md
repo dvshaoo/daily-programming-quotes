@@ -517,3 +517,10 @@ _Last updated: 11/8/2025, 12:13:54 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/8/2025, 12:39:52 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."  
+│              — Barack Obama
+╰─────────────────────────────────────────────╯
+_Last updated: 11/8/2025, 1:11:12 PM_
+
