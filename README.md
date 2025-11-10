@@ -1311,3 +1311,10 @@ _Last updated: 11/11/2025, 1:40:23 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/11/2025, 2:17:56 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."  
+│              — Criss Jami
+╰─────────────────────────────────────────────╯
+_Last updated: 11/11/2025, 2:46:39 AM_
+
