@@ -1444,3 +1444,10 @@ _Last updated: 11/11/2025, 1:13:12 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/11/2025, 1:40:11 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."  
+│              — Jon Kabat-Zinn
+╰─────────────────────────────────────────────╯
+_Last updated: 11/11/2025, 2:19:04 PM_
+
