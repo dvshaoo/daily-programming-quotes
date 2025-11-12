@@ -1745,3 +1745,10 @@ _Last updated: 11/12/2025, 1:13:31 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/12/2025, 1:40:29 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "To be in harmony with the wholeness of things is not to have anxiety over imperfections."  
+│              — Dogen
+╰─────────────────────────────────────────────╯
+_Last updated: 11/12/2025, 2:18:58 PM_
+
