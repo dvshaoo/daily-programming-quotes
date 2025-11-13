@@ -2116,3 +2116,10 @@ _Last updated: 11/13/2025, 6:14:09 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/13/2025, 6:44:06 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."  
+│              — Pema Chodron
+╰─────────────────────────────────────────────╯
+_Last updated: 11/13/2025, 7:11:15 PM_
+
