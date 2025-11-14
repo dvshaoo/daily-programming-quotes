@@ -2410,3 +2410,10 @@ _Last updated: 11/14/2025, 5:39:55 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/14/2025, 6:14:27 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."  
+│              — John Eliot
+╰─────────────────────────────────────────────╯
+_Last updated: 11/14/2025, 6:42:21 PM_
+
