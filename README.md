@@ -2585,3 +2585,10 @@ _Last updated: 11/15/2025, 6:15:05 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/15/2025, 6:39:33 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."  
+│              — Pema Chodron
+╰─────────────────────────────────────────────╯
+_Last updated: 11/15/2025, 7:11:17 AM_
+
