@@ -2375,3 +2375,10 @@ _Last updated: 11/14/2025, 3:12:23 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/14/2025, 3:36:49 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Unless someone truly has the power to say no, they never truly have the power to say yes."  
+│              — Dan Millman
+╰─────────────────────────────────────────────╯
+_Last updated: 11/14/2025, 4:16:37 PM_
+
