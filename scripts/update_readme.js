@@ -35,7 +35,7 @@ _Last updated: ${timestamp}_
     let readme = "";
     if (fs.existsSync("README.md")) readme = fs.readFileSync("README.md", "utf-8");
 
-    // If first time, add title:
+  
     if (!readme.includes("🧠 Daily Programming Quotes Log"))
       readme = "# 🧠 Daily Programming Quotes Log\n\n" + readme;
 
