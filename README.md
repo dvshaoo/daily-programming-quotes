@@ -2760,3 +2760,10 @@ _Last updated: 11/15/2025, 8:58:41 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/15/2025, 9:24:16 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble."  
+│              — Robert Greene
+╰─────────────────────────────────────────────╯
+_Last updated: 11/15/2025, 9:38:36 PM_
+
