@@ -3271,3 +3271,10 @@ _Last updated: 11/17/2025, 1:13:08 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/17/2025, 1:41:06 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The greater the impact you want to make, the greater your influence needs to be."  
+│              — Lolly Daskal
+╰─────────────────────────────────────────────╯
+_Last updated: 11/17/2025, 2:19:32 PM_
+
