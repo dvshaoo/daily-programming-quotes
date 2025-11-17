@@ -3425,3 +3425,10 @@ _Last updated: 11/18/2025, 12:48:17 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/18/2025, 1:12:23 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "  
+│              — Orison Swett Marden
+╰─────────────────────────────────────────────╯
+_Last updated: 11/18/2025, 1:40:12 AM_
+
