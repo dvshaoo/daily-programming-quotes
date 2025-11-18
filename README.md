@@ -3726,3 +3726,10 @@ _Last updated: 11/19/2025, 12:49:15 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/19/2025, 1:12:21 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists."  
+│              — Spencer Johnson
+╰─────────────────────────────────────────────╯
+_Last updated: 11/19/2025, 1:39:58 AM_
+
