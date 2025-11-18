@@ -3740,3 +3740,10 @@ _Last updated: 11/19/2025, 1:39:58 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/19/2025, 2:18:21 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Note that this journey is uniquely yours, no one elses. So the path has to be your own."  
+│              — Jon Kabat-Zinn
+╰─────────────────────────────────────────────╯
+_Last updated: 11/19/2025, 2:49:15 AM_
+
