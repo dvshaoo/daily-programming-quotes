@@ -3936,3 +3936,10 @@ _Last updated: 11/19/2025, 7:10:44 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/19/2025, 7:36:24 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."  
+│              — Deepak Chopra
+╰─────────────────────────────────────────────╯
+_Last updated: 11/19/2025, 8:24:24 PM_
+
