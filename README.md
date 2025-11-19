@@ -4034,3 +4034,10 @@ _Last updated: 11/20/2025, 2:46:53 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/20/2025, 3:10:10 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."  
+│              — Colin Powell
+╰─────────────────────────────────────────────╯
+_Last updated: 11/20/2025, 3:33:57 AM_
+
