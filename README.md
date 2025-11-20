@@ -4118,3 +4118,10 @@ _Last updated: 11/20/2025, 8:55:49 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/20/2025, 10:26:38 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Study logic and math, because once you've mastered them, you won't fear any book."  
+│              — Naval Ravikant
+╰─────────────────────────────────────────────╯
+_Last updated: 11/20/2025, 11:31:06 AM_
+
