@@ -4307,3 +4307,10 @@ _Last updated: 11/21/2025, 12:47:35 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/21/2025, 1:10:26 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The best teacher is experience and not through someone's distorted point of view."  
+│              — Jack Kerouac
+╰─────────────────────────────────────────────╯
+_Last updated: 11/21/2025, 1:37:55 AM_
+
