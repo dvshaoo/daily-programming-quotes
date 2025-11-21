@@ -4433,3 +4433,10 @@ _Last updated: 11/21/2025, 11:31:14 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/21/2025, 12:15:26 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Prefer to be defeated in the presence of the wise than to excel among fools."  
+│              — Dogen
+╰─────────────────────────────────────────────╯
+_Last updated: 11/21/2025, 12:42:47 PM_
+
