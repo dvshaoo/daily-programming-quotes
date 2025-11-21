@@ -4475,3 +4475,10 @@ _Last updated: 11/21/2025, 2:50:38 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/21/2025, 3:13:04 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Integrity is telling myself the truth. And honesty is telling the truth to other people."  
+│              — Spencer Johnson
+╰─────────────────────────────────────────────╯
+_Last updated: 11/21/2025, 3:37:29 PM_
+
