@@ -4510,3 +4510,10 @@ _Last updated: 11/21/2025, 5:13:05 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/21/2025, 5:39:19 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Men are disturbed not by things, but by the view which they take of them."  
+│              — Epictetus
+╰─────────────────────────────────────────────╯
+_Last updated: 11/21/2025, 6:13:05 PM_
+
