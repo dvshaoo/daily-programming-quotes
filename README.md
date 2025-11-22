@@ -4895,3 +4895,10 @@ _Last updated: 11/22/2025, 10:36:42 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/22/2025, 11:10:43 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."  
+│              — Robert Collier
+╰─────────────────────────────────────────────╯
+_Last updated: 11/22/2025, 11:34:54 PM_
+
