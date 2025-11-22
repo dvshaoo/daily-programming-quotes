@@ -4727,3 +4727,10 @@ _Last updated: 11/22/2025, 10:21:18 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/22/2025, 11:25:21 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Hope and fear come from feeling that we lack something; they come from a sense of poverty."  
+│              — Pema Chodron
+╰─────────────────────────────────────────────╯
+_Last updated: 11/22/2025, 11:48:36 AM_
+
