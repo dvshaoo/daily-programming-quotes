@@ -5000,3 +5000,10 @@ _Last updated: 11/23/2025, 6:11:03 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/23/2025, 6:14:37 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."  
+│              — Kamal Ravikant
+╰─────────────────────────────────────────────╯
+_Last updated: 11/23/2025, 6:38:22 AM_
+
