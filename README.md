@@ -4902,3 +4902,10 @@ _Last updated: 11/22/2025, 11:10:43 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/22/2025, 11:34:54 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."  
+│              — Simon Sinek
+╰─────────────────────────────────────────────╯
+_Last updated: 11/23/2025, 12:13:05 AM_
+
