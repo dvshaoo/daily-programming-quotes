@@ -5070,3 +5070,10 @@ _Last updated: 11/23/2025, 1:39:00 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/23/2025, 2:17:09 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you see a get rich quick scheme, that's someone else trying to get rich off of you."  
+│              — Naval Ravikant
+╰─────────────────────────────────────────────╯
+_Last updated: 11/23/2025, 2:46:43 PM_
+
