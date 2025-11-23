@@ -5182,3 +5182,10 @@ _Last updated: 11/23/2025, 9:37:35 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/23/2025, 10:10:00 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."  
+│              — Josh Waitzkin
+╰─────────────────────────────────────────────╯
+_Last updated: 11/23/2025, 10:36:45 PM_
+
