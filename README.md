@@ -5266,3 +5266,10 @@ _Last updated: 11/24/2025, 3:33:32 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/24/2025, 4:13:12 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "When we allow negative messages to fester in our head, they take on a life of their own."  
+│              — Lolly Daskal
+╰─────────────────────────────────────────────╯
+_Last updated: 11/24/2025, 4:39:05 AM_
+
