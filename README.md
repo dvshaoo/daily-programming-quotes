@@ -5168,3 +5168,10 @@ _Last updated: 11/23/2025, 8:57:06 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/23/2025, 9:20:51 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."  
+│              — Lao Tzu
+╰─────────────────────────────────────────────╯
+_Last updated: 11/23/2025, 9:37:35 PM_
+
