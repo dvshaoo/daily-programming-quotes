@@ -5630,3 +5630,10 @@ _Last updated: 11/25/2025, 8:56:18 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/25/2025, 10:41:55 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."  
+│              — Dogen
+╰─────────────────────────────────────────────╯
+_Last updated: 11/25/2025, 11:43:42 AM_
+
