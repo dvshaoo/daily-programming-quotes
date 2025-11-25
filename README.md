@@ -5644,3 +5644,10 @@ _Last updated: 11/25/2025, 11:43:42 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/25/2025, 12:18:36 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."  
+│              — Eckhart Tolle
+╰─────────────────────────────────────────────╯
+_Last updated: 11/25/2025, 12:44:47 PM_
+
