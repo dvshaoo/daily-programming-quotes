@@ -6008,3 +6008,10 @@ _Last updated: 11/26/2025, 4:17:32 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/26/2025, 4:47:05 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you run you stand a chance of losing, but if you don't run you've already lost."  
+│              — Barack Obama
+╰─────────────────────────────────────────────╯
+_Last updated: 11/26/2025, 5:14:52 PM_
+
