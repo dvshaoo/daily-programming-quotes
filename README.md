@@ -6253,3 +6253,10 @@ _Last updated: 11/27/2025, 12:16:09 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/27/2025, 12:43:42 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "I think self-awareness is probably the most important thing towards being a champion. "  
+│              — Billie Jean King
+╰─────────────────────────────────────────────╯
+_Last updated: 11/27/2025, 1:13:20 PM_
+
