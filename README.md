@@ -6981,3 +6981,10 @@ _Last updated: 11/29/2025, 9:40:58 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/29/2025, 10:10:47 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The big thing is to make a winning effort. I'm not obsessed with wins."  
+│              — Morgan Wootten
+╰─────────────────────────────────────────────╯
+_Last updated: 11/29/2025, 10:37:54 PM_
+
