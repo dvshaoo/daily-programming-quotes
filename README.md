@@ -6862,3 +6862,10 @@ _Last updated: 11/29/2025, 12:42:24 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/29/2025, 1:12:02 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future."  
+│              — Deepak Chopra
+╰─────────────────────────────────────────────╯
+_Last updated: 11/29/2025, 1:39:47 PM_
+
