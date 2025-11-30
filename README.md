@@ -7282,3 +7282,10 @@ _Last updated: 11/30/2025, 10:10:44 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/30/2025, 10:37:54 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The most difficult times for many of us are the ones we give ourselves."  
+│              — Pema Chodron
+╰─────────────────────────────────────────────╯
+_Last updated: 11/30/2025, 11:11:06 PM_
+
