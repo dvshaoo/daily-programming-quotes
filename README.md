@@ -7177,3 +7177,10 @@ _Last updated: 11/30/2025, 2:18:08 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/30/2025, 2:48:35 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."  
+│              — T.S. Eliot
+╰─────────────────────────────────────────────╯
+_Last updated: 11/30/2025, 3:11:00 PM_
+
