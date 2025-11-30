@@ -7226,3 +7226,10 @@ _Last updated: 11/30/2025, 5:36:04 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 11/30/2025, 6:11:40 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "It is our experiences that mold us into who we are...during times of adversity our true character will show."  
+│              — Unknown
+╰─────────────────────────────────────────────╯
+_Last updated: 11/30/2025, 6:39:15 PM_
+
