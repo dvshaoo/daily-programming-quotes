@@ -7506,3 +7506,10 @@ _Last updated: 12/1/2025, 5:19:21 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/1/2025, 5:47:03 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."  
+│              — Elon Musk
+╰─────────────────────────────────────────────╯
+_Last updated: 12/1/2025, 6:15:06 PM_
+
