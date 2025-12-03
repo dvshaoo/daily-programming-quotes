@@ -8010,3 +8010,10 @@ _Last updated: 12/3/2025, 7:36:32 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/3/2025, 8:58:05 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future."  
+│              — Deepak Chopra
+╰─────────────────────────────────────────────╯
+_Last updated: 12/3/2025, 10:45:37 AM_
+
