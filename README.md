@@ -8108,3 +8108,10 @@ _Last updated: 12/3/2025, 5:16:39 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/3/2025, 5:43:24 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The goal is not to show how great you are to others, but how vulnerable you are to yourself."  
+│              — Maxime Lagace
+╰─────────────────────────────────────────────╯
+_Last updated: 12/3/2025, 6:14:48 PM_
+
