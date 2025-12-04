@@ -8472,3 +8472,10 @@ _Last updated: 12/4/2025, 10:13:47 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/4/2025, 10:45:26 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will."  
+│              — James Allen
+╰─────────────────────────────────────────────╯
+_Last updated: 12/4/2025, 11:15:03 PM_
+
