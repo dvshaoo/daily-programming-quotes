@@ -8465,3 +8465,10 @@ _Last updated: 12/4/2025, 9:52:09 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/4/2025, 10:13:47 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "People are not disturbed by things, but by the views they take of them."  
+│              — Epictetus
+╰─────────────────────────────────────────────╯
+_Last updated: 12/4/2025, 10:45:26 PM_
+
