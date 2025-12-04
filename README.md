@@ -8381,3 +8381,10 @@ _Last updated: 12/4/2025, 3:14:49 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/4/2025, 3:39:35 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."  
+│              — Pema Chodron
+╰─────────────────────────────────────────────╯
+_Last updated: 12/4/2025, 4:18:36 PM_
+
