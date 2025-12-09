@@ -9886,3 +9886,10 @@ _Last updated: 12/9/2025, 3:15:54 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/9/2025, 3:39:52 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Men are disturbed not by things, but by the view which they take of them."  
+│              — Epictetus
+╰─────────────────────────────────────────────╯
+_Last updated: 12/9/2025, 4:18:36 PM_
+
