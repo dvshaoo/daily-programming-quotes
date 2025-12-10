@@ -10166,3 +10166,10 @@ _Last updated: 12/10/2025, 1:42:18 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/10/2025, 2:20:33 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."  
+│              — Marcus Aurelius
+╰─────────────────────────────────────────────╯
+_Last updated: 12/10/2025, 2:53:19 PM_
+
