@@ -10551,3 +10551,10 @@ _Last updated: 12/11/2025, 8:27:04 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/11/2025, 9:12:11 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Without education, we are in a horrible and deadly danger of taking educated people seriously."  
+│              — Gilbert Chesterton
+╰─────────────────────────────────────────────╯
+_Last updated: 12/11/2025, 9:54:06 PM_
+
