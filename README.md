@@ -10488,3 +10488,10 @@ _Last updated: 12/11/2025, 3:41:21 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/11/2025, 4:19:02 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."  
+│              — Sonia Ricotti
+╰─────────────────────────────────────────────╯
+_Last updated: 12/11/2025, 4:49:47 PM_
+
