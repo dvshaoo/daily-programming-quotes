@@ -10929,3 +10929,10 @@ _Last updated: 12/13/2025, 2:19:12 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/13/2025, 2:51:30 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The more you take responsibility for your past and present, the more you are able to create the future you seek."  
+│              — Celestine Chua
+╰─────────────────────────────────────────────╯
+_Last updated: 12/13/2025, 3:11:04 AM_
+
