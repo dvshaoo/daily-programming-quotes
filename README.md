@@ -10999,3 +10999,10 @@ _Last updated: 12/13/2025, 6:40:48 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/13/2025, 7:12:21 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you're waiting until you feel talented enough to make it, you'll never make it."  
+│              — Criss Jami
+╰─────────────────────────────────────────────╯
+_Last updated: 12/13/2025, 7:37:03 AM_
+
