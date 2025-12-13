@@ -11174,3 +11174,10 @@ _Last updated: 12/13/2025, 10:11:03 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/13/2025, 10:38:48 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you can't explain it simply, you don't understand it well enough."  
+│              — Albert Einstein
+╰─────────────────────────────────────────────╯
+_Last updated: 12/13/2025, 11:11:19 PM_
+
