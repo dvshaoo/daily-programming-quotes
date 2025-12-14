@@ -11594,3 +11594,10 @@ _Last updated: 12/15/2025, 6:39:13 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/15/2025, 7:11:16 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"  
+│              — Seneca
+╰─────────────────────────────────────────────╯
+_Last updated: 12/15/2025, 7:36:33 AM_
+
