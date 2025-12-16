@@ -11902,3 +11902,10 @@ _Last updated: 12/16/2025, 7:38:34 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/16/2025, 9:00:49 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"  
+│              — Tony Robbins
+╰─────────────────────────────────────────────╯
+_Last updated: 12/16/2025, 11:06:33 AM_
+
