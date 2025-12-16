@@ -12077,3 +12077,10 @@ _Last updated: 12/16/2025, 11:42:25 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/17/2025, 12:17:45 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Even if you're sure you can win, be careful that you can live with what you lose."  
+│              — Gary Keller
+╰─────────────────────────────────────────────╯
+_Last updated: 12/17/2025, 12:52:20 AM_
+
