@@ -12245,3 +12245,10 @@ _Last updated: 12/17/2025, 1:43:23 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/17/2025, 2:20:17 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Many people spend more time looking at their failures than focusing on their successes."  
+│              — Lolly Daskal
+╰─────────────────────────────────────────────╯
+_Last updated: 12/17/2025, 2:53:29 PM_
+
