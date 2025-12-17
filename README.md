@@ -12259,3 +12259,10 @@ _Last updated: 12/17/2025, 2:53:29 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/17/2025, 3:15:58 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."  
+│              — Robert Kiyosaki
+╰─────────────────────────────────────────────╯
+_Last updated: 12/17/2025, 3:40:41 PM_
+
