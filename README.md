@@ -12385,3 +12385,10 @@ _Last updated: 12/18/2025, 12:16:53 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/18/2025, 12:51:42 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Knowing your own darkness is the best method for dealing with the darknesses of other people."  
+│              — Carl Jung
+╰─────────────────────────────────────────────╯
+_Last updated: 12/18/2025, 1:17:08 AM_
+
