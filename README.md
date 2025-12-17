@@ -12196,3 +12196,10 @@ _Last updated: 12/17/2025, 7:38:20 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/17/2025, 8:56:02 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."  
+│              — Bob Proctor
+╰─────────────────────────────────────────────╯
+_Last updated: 12/17/2025, 10:46:08 AM_
+
