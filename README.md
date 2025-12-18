@@ -12490,3 +12490,10 @@ _Last updated: 12/18/2025, 8:57:23 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/18/2025, 10:47:39 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."  
+│              — Criss Jami
+╰─────────────────────────────────────────────╯
+_Last updated: 12/18/2025, 11:51:23 AM_
+
