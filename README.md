@@ -12812,3 +12812,10 @@ _Last updated: 12/19/2025, 12:51:13 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/19/2025, 1:14:53 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."  
+│              — Mark Manson
+╰─────────────────────────────────────────────╯
+_Last updated: 12/19/2025, 1:42:39 PM_
+
