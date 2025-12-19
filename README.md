@@ -12833,3 +12833,10 @@ _Last updated: 12/19/2025, 2:19:51 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/19/2025, 2:52:04 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Nothing ever goes away until it has taught us what we need to know."  
+│              — Pema Chodron
+╰─────────────────────────────────────────────╯
+_Last updated: 12/19/2025, 3:15:20 PM_
+
