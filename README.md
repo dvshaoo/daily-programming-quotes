@@ -13512,3 +13512,10 @@ _Last updated: 12/21/2025, 8:22:25 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/21/2025, 9:02:53 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "No valid plans for the future can be made by those who have no capacity for living now."  
+│              — Alan Watts
+╰─────────────────────────────────────────────╯
+_Last updated: 12/21/2025, 9:42:29 PM_
+
