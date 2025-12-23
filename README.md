@@ -14016,3 +14016,10 @@ _Last updated: 12/23/2025, 2:20:45 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/23/2025, 2:54:06 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."  
+│              — Celestine Chua
+╰─────────────────────────────────────────────╯
+_Last updated: 12/23/2025, 3:17:38 PM_
+
