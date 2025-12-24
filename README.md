@@ -14506,3 +14506,10 @@ _Last updated: 12/25/2025, 4:13:30 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/25/2025, 4:40:46 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."  
+│              — Jeffrey Gitomer
+╰─────────────────────────────────────────────╯
+_Last updated: 12/25/2025, 5:11:20 AM_
+
