@@ -14548,3 +14548,10 @@ _Last updated: 12/25/2025, 6:41:09 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/25/2025, 7:12:21 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you are unable to find the truth right where you are, where else do you expect to find it?"  
+│              — Dogen
+╰─────────────────────────────────────────────╯
+_Last updated: 12/25/2025, 7:37:42 AM_
+
