@@ -15325,3 +15325,10 @@ _Last updated: 12/27/2025, 11:11:16 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/27/2025, 11:37:33 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."  
+│              — Josh Waitzkin
+╰─────────────────────────────────────────────╯
+_Last updated: 12/28/2025, 12:14:29 AM_
+
