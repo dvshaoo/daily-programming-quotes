@@ -15598,3 +15598,10 @@ _Last updated: 12/28/2025, 9:44:41 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/28/2025, 10:11:47 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves."  
+│              — Adi Da Samraj
+╰─────────────────────────────────────────────╯
+_Last updated: 12/28/2025, 10:40:44 PM_
+
