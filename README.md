@@ -15745,3 +15745,10 @@ _Last updated: 12/29/2025, 7:38:19 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/29/2025, 9:05:34 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The Truth is realized in an instant; the Act is practiced step by step."  
+│              — Seungsahn
+╰─────────────────────────────────────────────╯
+_Last updated: 12/29/2025, 11:19:23 AM_
+
