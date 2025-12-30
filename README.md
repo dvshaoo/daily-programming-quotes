@@ -16172,3 +16172,10 @@ _Last updated: 12/30/2025, 9:10:21 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 12/30/2025, 9:51:17 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Becoming a great leader doesn't mean being perfect. it means living with your imperfections."  
+│              — Lolly Daskal
+╰─────────────────────────────────────────────╯
+_Last updated: 12/30/2025, 10:13:31 PM_
+
