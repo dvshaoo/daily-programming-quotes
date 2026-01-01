@@ -16844,3 +16844,10 @@ _Last updated: 1/2/2026, 3:34:55 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/2/2026, 4:14:23 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."  
+│              — Sonia Ricotti
+╰─────────────────────────────────────────────╯
+_Last updated: 1/2/2026, 4:42:04 AM_
+
