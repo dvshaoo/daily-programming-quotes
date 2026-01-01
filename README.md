@@ -16893,3 +16893,10 @@ _Last updated: 1/2/2026, 6:41:41 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/2/2026, 7:12:45 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you are unable to find the truth right where you are, where else do you expect to find it?"  
+│              — Dogen
+╰─────────────────────────────────────────────╯
+_Last updated: 1/2/2026, 7:38:30 AM_
+
