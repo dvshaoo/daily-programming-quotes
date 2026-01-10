@@ -19252,3 +19252,10 @@ _Last updated: 1/10/2026, 12:06:47 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/10/2026, 12:51:32 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The greater the impact you want to make, the greater your influence needs to be."  
+│              — Lolly Daskal
+╰─────────────────────────────────────────────╯
+_Last updated: 1/10/2026, 1:14:50 PM_
+
