@@ -20057,3 +20057,10 @@ _Last updated: 1/13/2026, 5:12:43 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/13/2026, 5:40:17 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Creative people are often found either disagreeable or intimidating by mediocrities."  
+│              — Criss Jami
+╰─────────────────────────────────────────────╯
+_Last updated: 1/13/2026, 6:12:13 AM_
+
