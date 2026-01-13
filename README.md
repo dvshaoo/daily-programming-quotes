@@ -20281,3 +20281,10 @@ _Last updated: 1/14/2026, 12:20:14 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/14/2026, 12:55:02 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."  
+│              — Dale Carnegie
+╰─────────────────────────────────────────────╯
+_Last updated: 1/14/2026, 1:20:13 AM_
+
