@@ -20883,3 +20883,10 @@ _Last updated: 1/16/2026, 2:25:02 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/16/2026, 2:59:45 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about."  
+│              — Naval Ravikant
+╰─────────────────────────────────────────────╯
+_Last updated: 1/16/2026, 3:27:15 AM_
+
