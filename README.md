@@ -21135,3 +21135,10 @@ _Last updated: 1/16/2026, 11:15:01 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/16/2026, 11:43:46 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The Truth is realized in an instant; the Act is practiced step by step."  
+│              — Seungsahn
+╰─────────────────────────────────────────────╯
+_Last updated: 1/17/2026, 12:17:49 AM_
+
