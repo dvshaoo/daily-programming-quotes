@@ -21163,3 +21163,10 @@ _Last updated: 1/17/2026, 1:17:33 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/17/2026, 1:45:01 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest."  
+│              — Josh Waitzkin
+╰─────────────────────────────────────────────╯
+_Last updated: 1/17/2026, 2:20:00 AM_
+
