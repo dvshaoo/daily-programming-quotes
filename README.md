@@ -21884,3 +21884,10 @@ _Last updated: 1/19/2026, 1:25:00 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/19/2026, 1:51:56 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."  
+│              — T.S. Eliot
+╰─────────────────────────────────────────────╯
+_Last updated: 1/19/2026, 2:26:09 PM_
+
