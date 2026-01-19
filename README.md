@@ -22080,3 +22080,10 @@ _Last updated: 1/20/2026, 4:42:48 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/20/2026, 5:11:51 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Many people spend more time looking at their failures than focusing on their successes."  
+│              — Lolly Daskal
+╰─────────────────────────────────────────────╯
+_Last updated: 1/20/2026, 5:39:27 AM_
+
