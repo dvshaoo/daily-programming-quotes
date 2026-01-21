@@ -22633,3 +22633,10 @@ _Last updated: 1/22/2026, 6:49:42 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/22/2026, 7:16:54 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "This is the most simple and basic component of life: our struggles determine our successes."  
+│              — Mark Manson
+╰─────────────────────────────────────────────╯
+_Last updated: 1/22/2026, 7:44:29 AM_
+
