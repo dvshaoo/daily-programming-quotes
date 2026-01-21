@@ -22507,3 +22507,10 @@ _Last updated: 1/21/2026, 7:43:14 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/21/2026, 8:29:19 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you can't explain it simply, you don't understand it well enough."  
+│              — Albert Einstein
+╰─────────────────────────────────────────────╯
+_Last updated: 1/21/2026, 9:26:21 PM_
+
