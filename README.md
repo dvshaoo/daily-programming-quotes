@@ -22444,3 +22444,10 @@ _Last updated: 1/21/2026, 3:29:19 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/21/2026, 3:50:08 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."  
+│              — Pema Chodron
+╰─────────────────────────────────────────────╯
+_Last updated: 1/21/2026, 4:20:29 PM_
+
