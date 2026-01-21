@@ -22451,3 +22451,10 @@ _Last updated: 1/21/2026, 3:50:08 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/21/2026, 4:20:29 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "The more you take responsibility for your past and present, the more you are able to create the future you seek."  
+│              — Celestine Chua
+╰─────────────────────────────────────────────╯
+_Last updated: 1/21/2026, 4:52:59 PM_
+
