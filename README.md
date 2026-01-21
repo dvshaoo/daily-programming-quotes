@@ -22605,3 +22605,10 @@ _Last updated: 1/22/2026, 5:20:29 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/22/2026, 5:49:12 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."  
+│              — Seungsahn
+╰─────────────────────────────────────────────╯
+_Last updated: 1/22/2026, 6:16:27 AM_
+
