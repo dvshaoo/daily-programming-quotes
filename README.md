@@ -22850,3 +22850,10 @@ _Last updated: 1/23/2026, 2:57:05 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/23/2026, 3:21:31 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."  
+│              — Colin Powell
+╰─────────────────────────────────────────────╯
+_Last updated: 1/23/2026, 3:42:29 AM_
+
