@@ -22822,3 +22822,10 @@ _Last updated: 1/23/2026, 12:58:01 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/23/2026, 1:27:29 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."  
+│              — Peter Drucker
+╰─────────────────────────────────────────────╯
+_Last updated: 1/23/2026, 1:53:06 AM_
+
