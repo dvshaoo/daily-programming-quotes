@@ -22990,3 +22990,10 @@ _Last updated: 1/23/2026, 3:21:37 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/23/2026, 3:43:45 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "To escape from the world means that one's mind is not concerned with the opinions of the world."  
+│              — Dogen
+╰─────────────────────────────────────────────╯
+_Last updated: 1/23/2026, 4:18:57 PM_
+
