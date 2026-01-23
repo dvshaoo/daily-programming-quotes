@@ -23137,3 +23137,10 @@ _Last updated: 1/24/2026, 2:20:42 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/24/2026, 2:56:02 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Great ones are willing to get burned time and again as they sharpen their swords in the fire."  
+│              — Josh Waitzkin
+╰─────────────────────────────────────────────╯
+_Last updated: 1/24/2026, 3:19:58 AM_
+
