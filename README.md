@@ -23564,3 +23564,10 @@ _Last updated: 1/25/2026, 2:53:15 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/25/2026, 3:15:16 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "You don't have to control your thoughts; you just have to stop letting them control you."  
+│              — Dan Millman
+╰─────────────────────────────────────────────╯
+_Last updated: 1/25/2026, 3:39:21 PM_
+
