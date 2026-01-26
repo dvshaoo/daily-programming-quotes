@@ -23830,3 +23830,10 @@ _Last updated: 1/26/2026, 1:27:02 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/26/2026, 1:53:17 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "We can spend our whole lives escaping from the monsters of our minds."  
+│              — Pema Chodron
+╰─────────────────────────────────────────────╯
+_Last updated: 1/26/2026, 2:25:03 PM_
+
