@@ -24369,3 +24369,10 @@ _Last updated: 1/28/2026, 11:16:32 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/28/2026, 12:28:59 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Nothing ever goes away until it has taught us what we need to know."  
+│              — Pema Chodron
+╰─────────────────────────────────────────────╯
+_Last updated: 1/28/2026, 1:00:33 PM_
+
