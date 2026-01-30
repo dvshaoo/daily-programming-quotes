@@ -24964,3 +24964,10 @@ _Last updated: 1/31/2026, 1:26:00 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 1/31/2026, 1:57:08 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."  
+│              — Mark Manson
+╰─────────────────────────────────────────────╯
+_Last updated: 1/31/2026, 2:36:37 AM_
+
