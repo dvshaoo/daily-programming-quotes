@@ -25461,3 +25461,10 @@ _Last updated: 2/1/2026, 11:15:52 PM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 2/1/2026, 11:45:29 PM_
 
+
+╭─────────────────────────────────────────────╮
+│  "This is the most simple and basic component of life: our struggles determine our successes."  
+│              — Mark Manson
+╰─────────────────────────────────────────────╯
+_Last updated: 2/2/2026, 12:18:20 AM_
+
