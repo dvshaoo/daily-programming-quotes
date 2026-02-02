@@ -25594,3 +25594,10 @@ _Last updated: 2/2/2026, 9:15:53 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 2/2/2026, 11:59:46 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."  
+│              — Robert Kiyosaki
+╰─────────────────────────────────────────────╯
+_Last updated: 2/2/2026, 1:25:21 PM_
+
