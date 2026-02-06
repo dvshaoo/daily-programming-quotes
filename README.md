@@ -26259,3 +26259,10 @@ _Last updated: 2/6/2026, 9:11:42 AM_
 ╰─────────────────────────────────────────────╯
 _Last updated: 2/6/2026, 11:42:50 AM_
 
+
+╭─────────────────────────────────────────────╮
+│  "Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now."  
+│              — Spencer Johnson
+╰─────────────────────────────────────────────╯
+_Last updated: 2/6/2026, 1:10:52 PM_
+
